@@ -13,5 +13,5 @@
 # It will tell you about some origami works and about origami.
 
 # Here's the link for the website-
-# 
+# https://jaichaprana.github.io/Origami/
 
